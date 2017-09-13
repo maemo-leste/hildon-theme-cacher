@@ -1,3 +1,9 @@
+hildon-theme-cacher (0.4.3-2) unstable; urgency=medium
+
+  * enable git builds
+
+ -- Ivan J. <parazyd@dyne.org>  Wed, 13 Sep 2017 12:50:00 +0200
+
 hildon-theme-cacher (0.4.3-1-recomp1) unstable; urgency=low
 
   * This entry has been added by BIFH queue processor
