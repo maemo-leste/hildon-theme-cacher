@@ -1,3 +1,9 @@
+hildon-theme-cacher (0.4.3-3) unstable; urgency=medium
+
+  * set debian/compat to 5
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Sun, 07 Jan 2018 18:36:00 +0100
+
 hildon-theme-cacher (0.4.3-2) unstable; urgency=medium
 
   * enable git builds
