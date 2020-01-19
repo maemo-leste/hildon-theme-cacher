@@ -7,6 +7,7 @@ Standards-Version: 3.6.0
 
 Package: hildon-theme-cacher
 Architecture: any
+Multi-Arch: same
 Description: Tool to generate gtkrc cache files on fly
 Depends: ${shlibs:Depends}
 
